@@ -10,9 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>registrycenter</module>
-        <module>user</module>
         <module>configserver</module>
         <module>configclient</module>
+
     </modules>
 
     <!-- 引入Spring Boot依赖 -->

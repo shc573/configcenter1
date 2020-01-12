@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nativaconfigclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nativaconfigserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/registrycenter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user" charset="UTF-8" />
   </component>
